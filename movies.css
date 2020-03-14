@@ -21,7 +21,7 @@
     width: 100%;
     height: 100%;
     content: "";
-    background: linear-gradient(0deg, #AC0000 0, rgba(19, 11, 26, .84) 25%, rgba(19, 11, 26, .66) 38%, rgba(7, 6, 10, .61) 58%, rgba(11, 7, 21, .76) 100%)
+    background: linear-gradient(0deg, #130b1a 0, rgba(19, 11, 26, .84) 25%, rgba(19, 11, 26, .66) 38%, rgba(7, 6, 10, .61) 58%, rgba(11, 7, 21, .76) 100%)
 }
 
 #ms {
@@ -125,7 +125,7 @@ body.vpLoad #ms {
     color: #fff;
     font-size: 11px;
     letter-spacing: 4px;
-    text-shadow: 0 0 20px #f49797;
+    text-shadow: 0 0 20px #d597f4;
     text-align: center;
     transition: all .5s ease-in-out;
     text-transform: uppercase;
@@ -911,7 +911,7 @@ body.vpLoad #ms {
     padding-left: 0!important;
     width: 160px!important;
     background: #6c5ce7!important;
-    background: linear-gradient(45deg, #7700cb 0, #8020d6 100%)!important;
+    background: linear-gradient(45deg, #6c5ce7 0, #a29bfe 100%)!important;
     transition: all .5s ease-in-out!important;
     overflow: hidden
 }
@@ -1525,7 +1525,7 @@ body.vpLoad #ms {
 
 #vpBar .back.nextEp::before {
     width: 130px;
-    content: "PRÓXIMO EPISÓDIO"
+    content: "PRÃ“XIMO EPISÃ“DIO"
 }
 
 #vp .titleBar {
