@@ -1554,7 +1554,9 @@ body.vpLoad #ms {
 }
 
 #downloadVideoModal {
-    max-width: 440px
+    max-width: 440px;
+	display: none;
+	
 }
 
 #downloadVideoModal .innerbox {
@@ -1562,7 +1564,6 @@ body.vpLoad #ms {
     box-shadow: 0 0 50px 0 rgba(86, 61, 143, .3);
     padding: 30px 10px;
     text-align: center;
-	display: none;
 }
 
 #downloadVideoModal .title {
